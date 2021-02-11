@@ -9,12 +9,16 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 
-339113 - Surgical Appliance and Supplies Manufacturing: This U.S. industry comprises establishments primarily engaged in manufacturing surgical appliances and supplies. Examples of products made by these establishments are orthopedic devices, prosthetic appliances, surgical dressings, crutches, surgical sutures, personal industrial safety devices (except protective eyewear), hospital beds, and operating room tables.
+339113 - Surgical Appliance and Supplies Manufacturing 
+
+This U.S. industry comprises establishments primarily engaged in manufacturing surgical appliances and supplies. Examples of products made by these establishments are orthopedic devices, prosthetic appliances, surgical dressings, crutches, surgical sutures, personal industrial safety devices (except protective eyewear), hospital beds, and operating room tables.
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
-Depuy products Inc. has 12000 employees,
-Steris Corporation has 7655 employees and
-Ethicon Inc. has 5382 employees.
+Depuy products Inc. has 12000 employee
+
+Steris Corporation has 7655 employees 
+
+Ethicon Inc. has 5382 employees
 ***
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
 ***
