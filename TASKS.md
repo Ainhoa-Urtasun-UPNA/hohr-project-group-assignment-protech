@@ -28,6 +28,11 @@ Total Marketable US Businesses are 4470
 * List of your company's primary activities divided into engineering activities and operations activities:
 ***
 * List of your company's support activities:
+
+ * **Human Resource Management (HRM):** activities involved in recruiting, managing, training, developing and rewarding employees.
+ * **Technology development:** includes key technologies that may be concerned directly with the products (R&D, product design), process development, resource (raw material improvement).
+* **Procurement of materials and machines needed for the production of prosthesis:** process of acquiring various resource inputs to the primary activities. Some examples may be real-time inventory, communication with suppliers, purchases of supplies and materials…  
+* **Infrastructure:** systems of planning, quality control, information management, structure and routine and finance. This last term refers to the financial resources provided to make the different projects available, to support operations and strategic initiatives. 
 ***
 
 ## Task 2
