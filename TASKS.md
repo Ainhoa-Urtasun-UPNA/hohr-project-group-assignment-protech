@@ -26,6 +26,9 @@ Ethicon Inc. has 5382 employees
 Total Marketable US Businesses are 4470 
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
+
+**Engineering:** engineers must gain an understanding of all the issues surrounding the particular design of creating protesis. It includes activities intense in cognitive non-routine tasks. Product development, design. It is very important to develop, try and analyze some different prototypes before designing and producing the definitive prosthesis. 
+**Operations activities:** it comprises all routine and manual tasks. For example, it includes setting up tools, machines, handling inventory, assembling products, fixing, brazing, manufacturing lead products, heat materials, producing advanced composite materials and so on. 
 ***
 * List of your company's support activities:
 
