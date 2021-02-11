@@ -14,6 +14,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 This U.S. industry comprises establishments primarily engaged in manufacturing surgical appliances and supplies. Examples of products made by these establishments are orthopedic devices, prosthetic appliances, surgical dressings, crutches, surgical sutures, personal industrial safety devices (except protective eyewear), hospital beds, and operating room tables.
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
+
 Depuy products Inc. has 12000 employee
 
 Steris Corporation has 7655 employees 
