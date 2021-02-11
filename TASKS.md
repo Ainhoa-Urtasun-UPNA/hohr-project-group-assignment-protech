@@ -3,22 +3,25 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ## Task 1
 * Objective: analyze your industry and decide your primary and support activities
 ***
-* Your company's name: ProTech
+* Your company's name: 
 ***
 * Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):
 
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
-Depuy products Inc. has 12000 employees,
-Steris Corporation has 7655 employees and
-Ethicon Inc. has 5382 employees
-
+***
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
+Engineering: engineers must gain an understanding of all the issues surrounding the particular design of creating protesis. It includes activities intense in cognitive non-routine tasks. Product development, design. It is very important to develop, try and analyze some different prototypes before designing and producing the definitive prosthesis. 
+Operations activities: it comprises all routine and manual tasks. For example, it includes setting up tools, machines, handling inventory, assembling products, fixing, brazing, manufacturing lead products, heat materials, producing advanced composite materials and so on. 
 ***
 * List of your company's support activities:
+Human Resource Management (HRM): activities involved in recruiting, managing, training, developing and rewarding employees.
+Technology development: includes key technologies that may be concerned directly with the products (R&D, product design), process development, resource (raw material improvement).
+Procurement of materials and machines needed for the production of prosthesis: process of acquiring various resource inputs to the primary activities. Some examples may be real-time inventory, communication with suppliers, purchases of supplies and materials…  
+Infrastructure: systems of planning, quality control, information management, structure and routine and finance. This last term refers to the financial resources provided to make the different projects available, to support operations and strategic initiatives. 
 ***
 
 ## Task 2
