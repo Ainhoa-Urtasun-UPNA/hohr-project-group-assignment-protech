@@ -9,23 +9,23 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 
-339113 - Surgical Appliance and Supplies Manufacturing 
-
-This U.S. industry comprises establishments primarily engaged in manufacturing surgical appliances and supplies. Examples of products made by these establishments are orthopedic devices, prosthetic appliances, surgical dressings, crutches, surgical sutures, personal industrial safety devices (except protective eyewear), hospital beds, and operating room tables.
+339113 - Surgical Appliance and Supplies Manufacturing: This U.S. industry comprises establishments primarily engaged in manufacturing surgical appliances and supplies. Examples of products made by these establishments are orthopedic devices, prosthetic appliances, surgical dressings, crutches, surgical sutures, personal industrial safety devices (except protective eyewear), hospital beds, and operating room tables.
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
-
-Depuy products Inc. has 12000 employee
-
-Steris Corporation has 7655 employees 
-
-Ethicon Inc. has 5382 employees
+Depuy products Inc. has 12000 employees,
+Steris Corporation has 7655 employees and
+Ethicon Inc. has 5382 employees.
 ***
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
 ***
 * List of your company's support activities:
+
+* **Human Resource Management (HRM):** activities involved in recruiting, managing, training, developing and rewarding employees.
+* **Technology development:** includes key technologies that may be concerned directly with the products (R&D, product design), process development, resource (raw material improvement).
+* **Procurement of materials and machines needed for the production of prosthesis:** process of acquiring various resource inputs to the primary activities. Some examples may be real-time inventory, communication with suppliers, purchases of supplies and materials…  
+* **Infrastructure:** systems of planning, quality control, information management, structure and routine and finance. This last term refers to the financial resources provided to make the different projects available, to support operations and strategic initiatives. 
 ***
 
 ## Task 2
