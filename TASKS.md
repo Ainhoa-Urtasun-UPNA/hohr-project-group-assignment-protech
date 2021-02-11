@@ -2,10 +2,6 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 
 ## Task 1
 * Objective: analyze your industry and decide your primary and support activities
-
-For carrying out the industry analysis we are going to cover several topics such as the market size, market forecast, company’s profit and number of employees. In fact, it is important to clarify that the United States is the country leading this industry. Thus, most of the information is going to be related to the aforementioned country. 
-According to what is mentioned in the market research report of IBISworld about the Medical Instrument & Supply Manufacturing Industry in the US, the market size ranges around $84billions a quite significant amount. Indeed, the market size has been increasing at a considerable rate over the last 6 years. Undoubtedly, it is important to mention that the Coronavirus Disease 2019 (COVID-19) pandemic triggered unprecedented increased demand for some medical devices.  Regarding the Porter analysis and important opportunity for this industry is the fact that the population is aging. This demographic factor  may have a  significant effect on demand for medical supplies and instruments, as their need for care drives increases in overall public and private health expenditure. In contrast, possible constraints to industry growth may come in the form of reduced hospital capital equipment spending amid tight credit market conditions, stressed government budgets and soft demand for elective medical procedures. As mentioned on the NAICS  website the total Marketable US Businesses are 4470 which represents a  % of overall.
-
 ***
 * Your company's name: ProTech
 ***
@@ -30,6 +26,10 @@ Ethicon Inc. has 5382 employees
 Total Marketable US Businesses are 4470 
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
+
+**Engineering:** engineers must gain an understanding of all the issues surrounding the particular design of creating protesis. It includes activities intense in cognitive non-routine tasks. Product development, design. It is very important to develop, try and analyze some different prototypes before designing and producing the definitive prosthesis.
+
+**Operations activities:** it comprises all routine and manual tasks. For example, it includes setting up tools, machines, handling inventory, assembling products, fixing, brazing, manufacturing lead products, heat materials, producing advanced composite materials and so on. 
 ***
 * List of your company's support activities:
 
