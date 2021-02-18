@@ -45,15 +45,15 @@ Total Marketable US Businesses are 4470
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
-* ONET-SOC code and title:
-* 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
-* 5 most important skills they require to possess (provide the importance score, in Details):
-* 5 technology skills:
-* Education:
-* Wages:
-* Top industry:
+* **ONET-SOC code and title:**
+* **5 most important tasks they carry out (provide the importance score, in Details):**
+* **Is this job routine? Your judgment (0-10):**
+* **Is this job cognitive? Your judgment (0-10):**
+* **5 most important skills they require to possess (provide the importance score, in Details):**
+* **5 technology skills:**
+* **Education:**
+* **Wages:**
+* **Top industry:**
 
 ### Engineers
 * **ONET-SOC code and title:** 17-2072.00 - Electronics Engineers, Except Computer
