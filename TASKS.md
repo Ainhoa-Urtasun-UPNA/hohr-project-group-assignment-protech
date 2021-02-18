@@ -45,15 +45,15 @@ Total Marketable US Businesses are 4470
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
-* **ONET-SOC code and title:**
-* **5 most important tasks they carry out (provide the importance score, in Details):**
-* **Is this job routine? Your judgment (0-10):**
-* **Is this job cognitive? Your judgment (0-10):**
-* **5 most important skills they require to possess (provide the importance score, in Details):**
-* **5 technology skills:**
-* **Education:**
-* **Wages:**
-* **Top industry:**
+* ONET-SOC code and title:
+* 5 most important tasks they carry out (provide the importance score, in Details):
+* Is this job routine? Your judgment (0-10):
+* Is this job cognitive? Your judgment (0-10):
+* 5 most important skills they require to possess (provide the importance score, in Details):
+* 5 technology skills:
+* Education:
+* Wages:
+* Top industry:
 
 ### Engineers
 * **ONET-SOC code and title:** 17-2072.00 - Electronics Engineers, Except Computer
@@ -88,8 +88,12 @@ Total Marketable US Businesses are 4470
 3. Information (18%)
 
 ### Operators
-* ONET-SOC code and title:
-* 5 most important tasks they carry out (provide the importance score, in Details):
+* **ONET-SOC code and title:** 11-1021.00 - General and Operations Managers
+* **5 most important tasks they carry out (provide the importance score, in Details):** 
+1. (77%) Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement. 
+2. (76%) Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.
+3.(75%) Direct administrative activities directly related to making products or providing services.
+4.(73%) Prepare staff work schedules and assign specific duties.
 * Is this job routine? Your judgment (0-10):
 * Is this job cognitive? Your judgment (0-10):
 * 5 most important skills they require to possess (provide the importance score, in Details):
