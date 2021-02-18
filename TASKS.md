@@ -40,7 +40,7 @@ Total Marketable US Businesses are 4470
  * **Human Resource Management (HRM):** activities involved in recruiting, managing, training, developing and rewarding employees.
  * **Finance:** composed of activities related to the development and communication of standardised financial statements such as balance sheet,income statement and cash flow statement. Moreover, activities involving coordination and analysis of plans and projections across th whole company are included for instance, financial and operational planning, budgeting and analyzing profitabilty. 
  * **Management:** includes activities involving control and coordination of tasks as well as  acquiring various resource inputs for the primary activities such as communication with suppliers and purchases of materials.
-* 
+
 ## Task 2
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
