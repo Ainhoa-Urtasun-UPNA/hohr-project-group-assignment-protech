@@ -65,7 +65,17 @@ Total Marketable US Businesses are 4470
 * **Is this job routine? Your judgment (0-10):**
 * **Is this job cognitive? Your judgment (0-10):**
 * **5 most important skills they require to possess (provide the importance score, in Details):**
+  1. (75%) *Complex Problem Solving* — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.
+  2. (75%) *Critical Thinking* — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
+  3. (75%) *Reading Comprehension* — Understanding written sentences and paragraphs in work related documents.
+  4. (69%) *Speaking* — Talking to others to convey information effectively.
+  5. (69%) *Systems Analysis* — Determining how a system should work and how changes in conditions, operations, and the environment will affect outcomes.
 * **5 technology skills**
+  1. *Analytical or scientific software* — Ansoft Simplorer; Synopsys Saber; The MathWorks MATLAB Hot technology; Visual Numerics PV-WAVE...
+  2. *Computer aided design CAD software Hot technology* — Autodesk AutoCAD Hot technology; Dassault Systemes CATIA; Mentor Graphics PADS; Xilinx Integrated Software Environment ISE...
+  3. *Data base user interface and query software* — Oracle DBMS; Structured query language SQL...
+  4. *Development environment software* — C; National Instruments LabVIEW Hot technology ; Verilog; Very high-speed integrated circuit VHSIC hardware description language VHDL...
+  5. *Electronic mail software* — IBM Lotus Notes  
 * **Education:**
 * **Wages:**
 * **Top industry:**
