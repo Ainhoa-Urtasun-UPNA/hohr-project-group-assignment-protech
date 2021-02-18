@@ -55,20 +55,20 @@ Total Marketable US Businesses are 4470
 * Wages:
 * Top industry:
 ### Engineers
-* **ONET-SOC code and title:
-* **5 most important tasks they carry out (provide the importance score, in Details):
+* **ONET-SOC code and title:**
+* **5 most important tasks they carry out (provide the importance score, in Details):**
   1. (79%) Determine project material or equipment needs.
   2. (76%) Prepare engineering sketches or specifications for construction, relocation, or installation of equipment, facilities, products, or systems.
   3. (75%) Prepare documentation containing information such as confidential descriptions or specifications of proprietary hardware or software, product development or introduction schedules, product costs, or information about product performance weaknesses.
   4. (74%) Evaluate project work to ensure effectiveness, technical adequacy, or compatibility in the resolution of complex electronics engineering problems.
   5. (73%) Analyze electronics system requirements, capacity, cost, or customer needs to determine project feasibility. 
-* **Is this job routine? Your judgment (0-10):
-* **Is this job cognitive? Your judgment (0-10):
-* **5 most important skills they require to possess (provide the importance score, in Details):
-* **5 technology skills
-* **Education:
-* **Wages:
-* **Top industry:
+* **Is this job routine? Your judgment (0-10):**
+* **Is this job cognitive? Your judgment (0-10):**
+* **5 most important skills they require to possess (provide the importance score, in Details):**
+* **5 technology skills**
+* **Education:**
+* **Wages:**
+* **Top industry:**
 ### Operators
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
