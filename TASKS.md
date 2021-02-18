@@ -109,16 +109,34 @@ Total Marketable US Businesses are 4470
 3. Information (18%)
 
 ### Operators
-* **ONET-SOC code and title:** 
+* **ONET-SOC code and title:** 51-4072.00 - Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic 
 * **5 most important tasks they carry out (provide the importance score, in Details):** 
-* **Is this job routine? Your judgment (0-10):** 
-* **Is this job cognitive? Your judgment (0-10):** 
+1. (87%) Measure and visually inspect products for surface and dimension defects to ensure conformance to specifications, using precision measuring instruments.
+2. (85%) Observe continuous operation of automatic machines to ensure that products meet specifications and to detect jams or malfunctions, making adjustments as necessary.
+3. (82%) Set up, operate, or tend metal or plastic molding, casting, or coremaking machines to mold or cast metal or thermoplastic parts or products. 	
+4. (80%) Turn valves and dials of machines to regulate pressure, temperature, and speed and feed rates, and to set cycle times.
+5. (77%) Read specifications, blueprints, and work orders to determine setups, temperatures, and time settings required to mold, form, or cast plastic materials, as well as to plan production sequences.
+* **Is this job routine? Your judgment (0-10):** (7) Operator´s activities are routinary as they need rules and precise actions to develop the taks.
+* **Is this job cognitive? Your judgment (0-10):** (4) Operator’s activities are mainly physical, and require just a little bit of innovation and creativity.
 * **5 most important skills they require to possess (provide the importance score, in Details):**
+1. (66%) *Operation Monitoring* — Watching gauges, dials, or other indicators to make sure a machine is working properly.See more occupations related to this skill.
+2. (56%) *Active Listening* — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
+3. (53%) *Monitoring* — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.See more occupations related to this skill.
+4. (53%) *Operation and Control* — Controlling operations of equipment or systems.See more occupations related to this skill.
+5. (53%) *Reading Comprehension* — Understanding written sentences and paragraphs in work related documents.
 * **5 technology skills:**
-1. 
-* Education:
-* Wages:
-* Top industry:
+1. *Analytical or scientific software* — HotFlo! Die-Shot Monitor 
+2. *Computer aided manufacturing CAM software* — Intera Systems Hawk-i; RobotWare DieCast; Visi-Trak True-Trak 20/20 
+3. *Industrial control software* — FANUC Robotics iRVision 
+4. *Office suite software* — Microsoft Office Hot technology 
+5. *Spreadsheet software* — Microsoft Excel Hot technology
+* **Education:**
+1. (57%) High school diploma or equivalent Help.
+2. (30%) Less than high school diploma.
+3. (11%) Post-secondary certificate Help.
+* **Wages:** Median wages (2019): $15.45 hourly, $32,130 annual
+* **Top industry:**
+1. Manufacturing (91% employed in this sector).
 ***
 
 ## Task 3
