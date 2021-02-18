@@ -31,18 +31,16 @@ Total Marketable US Businesses are 4470
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
 
-**Engineering:** engineers must gain an understanding of all the issues surrounding the particular design of creating protesis. It includes activities intense in cognitive non-routine tasks. Product development, design. It is very important to develop, try and analyze some different prototypes before designing and producing the definitive prosthesis.
+**Engineering:** engineers must gain an understanding of all the issues surrounding the particular design of creating protesis. It includes activities intense in cognitive non-routine tasks. For instance, all the task related with technology development such as R&D, product design, process development and prototyping . It is very important to develop, try and analyze some different prototypes before designing and producing the definitive prosthesis.
 
 **Operations activities:** it comprises all routine and manual tasks. For example, it includes setting up tools, machines, handling inventory, assembling products, fixing, brazing, manufacturing lead products, heat materials, producing advanced composite materials and so on. 
 ***
 * List of your company's support activities:
 
  * **Human Resource Management (HRM):** activities involved in recruiting, managing, training, developing and rewarding employees.
- * **Technology development:** includes key technologies that may be concerned directly with the products (R&D, product design), process development, resource (raw material improvement).
-* **Procurement of materials and machines needed for the production of prosthesis:** process of acquiring various resource inputs to the primary activities. Some examples may be real-time inventory, communication with suppliers, purchases of supplies and materials…  
-* **Infrastructure:** systems of planning, quality control, information management, structure and routine and finance. This last term refers to the financial resources provided to make the different projects available, to support operations and strategic initiatives. 
-***
-
+ * **Finance:** composed of activities related to the development and communication of standardised financial statements such as balance sheet,income statement and cash flow statement. Moreover, activities involving coordination and analysis of plans and projections across th whole company are included for instance, financial and operational planning, budgeting and analyzing profitabilty. 
+ * **Management:** includes activities involving control and coordination of tasks as well as  acquiring various resource inputs for the primary activities such as communication with suppliers and purchases of materials.
+* 
 ## Task 2
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
