@@ -26,8 +26,20 @@ This U.S. industry comprises establishments primarily engaged in manufacturing s
 3. Ethicon Inc. has 5382 employees
 ***
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
-
-Total Marketable US Businesses are 4470 
+**339113 - Surgical Appliance and Supplies Manufacturing** - Total Marketable US Businesses are 4470 
+*Businesses classification by employees total range:*
+- Uncoded records: 1.093
+- 1-4 employees: 2.042
+- 5-9 employees: 485
+- 10-19 employees: 328
+- 20-49 employees: 247
+- 50-99 employees: 108
+- 100-249 employees: 68
+- 250-499 employees: 36
+- 500-999 employees: 26
+- 1000+ employees: 37
+**TOTAL:** 4.470 businesses
+Hence, from the total number of businesses of *20.738 in medical equipment and supplies manufacturing*, **4.470 businesses correspond to our specific industry named surgical appliance and supplies manufacturing.** 
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
 
