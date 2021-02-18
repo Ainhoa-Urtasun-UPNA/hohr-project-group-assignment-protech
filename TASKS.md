@@ -92,11 +92,17 @@ Total Marketable US Businesses are 4470
 * **5 most important tasks they carry out (provide the importance score, in Details):** 
 1. (77%) Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement. 
 2. (76%) Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.
-3.(75%) Direct administrative activities directly related to making products or providing services.
-4.(73%) Prepare staff work schedules and assign specific duties.
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
-* 5 most important skills they require to possess (provide the importance score, in Details):
+3. (75%) Direct administrative activities directly related to making products or providing services.
+4. (73%) Prepare staff work schedules and assign specific duties.
+5. (72%) Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits.
+* **Is this job routine? Your judgment (0-10):** (3) Managerial activities are not mainly routine since they cannot be accomplished by following some rules. Each day you need different solutions to solve different kinds of problems.
+* **Is this job cognitive? Your judgment (0-10):** (8) Managerial activities are cognitive since they are not physical. You need knowledge and experience. 
+* **5 most important skills they require to possess (provide the importance score, in Details):**
+1.(75%) *Active Listening* — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times
+2.(75%) *Coordination* — Adjusting actions in relation to others' actions. 
+3.(75%) *Monitoring* — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action. 
+4. (75%) *Social Perceptiveness* — Being aware of others' reactions and understanding why they react as they do.
+5. (75%) *Speaking* — Talking to others to convey information effectively.
 * 5 technology skills:
 * Education:
 * Wages:
