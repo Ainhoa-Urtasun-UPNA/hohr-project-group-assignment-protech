@@ -3,28 +3,27 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ## Task 1
 * Objective: analyze your industry and decide your primary and support activities
 ***
-
 For carrying out the industry analysis we are going to cover several topics such as the market size, market forecast, company’s profit and number of employees. In fact, it is important to clarify that the United States is the country leading this industry. Thus, most of the information is going to be related to the aforementioned country. 
 
 According to what is mentioned in the market research report of IBISworld about the Medical Instrument & Supply Manufacturing Industry in the US, the market size ranges around $84billions a quite significant amount. Indeed, the market size has been increasing at a considerable rate over the last 6 years. Undoubtedly, it is important to mention that the Coronavirus Disease 2019 (COVID-19) pandemic triggered unprecedented increased demand for some medical devices.  Regarding the Porter analysis and important opportunity for this industry is the fact that the population is aging. This demographic factor  may have a  significant effect on demand for medical supplies and instruments, as their need for care drives increases in overall public and private health expenditure. In contrast, possible constraints to industry growth may come in the form of reduced hospital capital equipment spending amid tight credit market conditions, stressed government budgets and soft demand for elective medical procedures. As mentioned on the NAICS  website the total Marketable US Businesses are 4470 which represents a  % of overall.
 
-* Your company's name: ProTech
+* Your company's name: **ProTech**
 ***
 * Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):
 
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 
-339113 - Surgical Appliance and Supplies Manufacturing 
+**339113 - Surgical Appliance and Supplies Manufacturing** 
 
 This U.S. industry comprises establishments primarily engaged in manufacturing surgical appliances and supplies. Examples of products made by these establishments are orthopedic devices, prosthetic appliances, surgical dressings, crutches, surgical sutures, personal industrial safety devices (except protective eyewear), hospital beds, and operating room tables.
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
 
-Depuy products Inc. has 12000 employees
+1. Depuy products Inc. has 12000 employees
 
-Steris Corporation has 7655 employees 
+2. Steris Corporation has 7655 employees 
 
-Ethicon Inc. has 5382 employees
+3. Ethicon Inc. has 5382 employees
 ***
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
 
