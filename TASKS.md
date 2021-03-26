@@ -134,10 +134,10 @@ Hence, from the total number of businesses of *20.738 in medical equipment and s
 * **Is this job routine? Your judgment (0-10):** (7) Operator´s activities are routinary as they need rules and precise actions to develop the taks.
 * **Is this job cognitive? Your judgment (0-10):** (4) Operator’s activities are mainly physical, and require just a little bit of innovation and creativity.
 * **5 most important skills they require to possess (provide the importance score, in Details):**
-1. (66%) *Operation Monitoring* — Watching gauges, dials, or other indicators to make sure a machine is working properly.See more occupations related to this skill.
-2. (56%) *Active Listening* — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
-3. (53%) *Monitoring* — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.See more occupations related to this skill.
-4. (53%) *Operation and Control* — Controlling operations of equipment or systems.See more occupations related to this skill.
+1. (66%) *Operation Monitoring* — Watching gauges, dials, or other indicators to make sure a machine is working properly.
+2. (56%) *Active Listening* — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+3. (53%) *Monitoring* — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.
+4. (53%) *Operation and Control* — Controlling operations of equipment or systems.
 5. (53%) *Reading Comprehension* — Understanding written sentences and paragraphs in work related documents.
 * **5 technology skills:**
 1. *Analytical or scientific software* — HotFlo! Die-Shot Monitor 
@@ -173,8 +173,51 @@ Given that the number of available workers is expected to be 1 manager, 1 engine
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
 ### Job posting for Managers:
+* **Job title**: Need for one general manager and two operational managers
+* **Name of the firm:** ProTech
+* **Industry:** 339113 -Surgical Appliance and Supplies Manufacturing
+* **Occupation (SOC):** 11-1021.00 - General and Operations Managers
+* **Tasks:**
+The tasks to be performed in this job are:to review financial statements, as well as the performance data that measures the productivity of the company; direct and coordinate the activities of the different departments regarding production, pricing, sales and distribution of the products. Additionally, it would be needed to prepare the staff work schdeule and assign specific duties. 
+* **Skills:**
+The required skills needed to perform the alredy mentioned tasks are divided in:
+1. General skills: coordinate and monitor the tasks to be performed in the company.
+2. Technical skills: accounting software (such as Fund accounting software or Tax software) and customer relationship management software (like Oracle Business Intelligence Enterprise Edition).
+* **Job type:** Full-time job for 3 managers: 2 of them will work in the company (supervising tasks) and the other could work remotly from home (making financial statements).
+* **Required credentials and years of experience:** Bachelor´s Degree and 2 years of experience for operational managers. Also, English Certificates will be required of C1 level. 
+* **Salary, benefits and perks:** The wage would be around $48 hourly ($100,780 annual). Moreover, extra-hours will have an hourly salary of $50.  
+
 ### Job posting for Engineers:
+* **Job title**: 11 Electronical engineers neded
+* **Name of the firm:** ProTech
+* **Industry:** 339113 - Surgical Appliance and Supplies Manufacturing
+* **Occupation (SOC):** 17-2072.00 - Electronics Engineers, Except Computer
+* **Tasks:**
+The tasks to be performed in this job are: prepare engineering sketches or specifications for construction, relocation, or installation of equipment, facilities, products, or systems. Evaluate project work to ensure effectiveness, technical adequacy, or compatibility in the resolution of complex electronics engineering problems. Finally, analyze electronics system requirements, capacity, cost, or customer needs to determine project feasibility.
+* **Skills:**
+The required skills needed to perform the already mentioned tasks are divided in:
+1. General skills: Complex problem solving (identifying complex problems and reviewing related information to develop and evaluate options and implement solutions) and critical thinking (using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems).
+2. Technology skills: Analytical or scientific software (Ansoft Simplorer; Synopsys Saber…) and Computer aided design CAD software Hot technology (Autodesk AutoCAD Hot technology; Dassault Systemes CATIA…) 
+* **Job type:** Full-time (8 hours per day) and remotely. 5 days per week.
+* **Required credentials and years of experience:** University degree, level of English (C1), level of German (B2), java knowledge and 5 years of experience in the sector.
+* **Salary, benefits and perks:** $50.76 hourly, $105,570 annual, variable commission depending on the job performance. 
+
 ### Job posting for Operators:
+* **Job title**: 3 Operators for 3D-Printer
+* **Name of the firm:** ProTech
+* **Industry:** 339113 -Surgical Appliance and Supplies Manufacturing
+* **Occupation (SOC):** 51-4072.00 - Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
+* **Tasks:**
+The tasks to be performed in this job are: measure and visually inspect products for surface and dimension defects to ensure conformance to specifications, using precision measuring instruments. Observe continuous operation of automatic machines to ensure that products meet specifications and to detect jams or malfunctions, making adjustments as necessary. Additionally, set up, operate, or tend metal or plastic molding, casting, or core making machines to mold or cast metal or thermoplastic parts or products.
+* **Skills:** 
+The required skills needed to perform the already mentioned tasks are divided in:
+1. General skills: Monitoring, involving watching gauges, dials, or other indicators to make sure a machine is working properly and active Listening Giving, being full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. 
+2. Technical skills: Analytical or scientific software, like HotFlo! Die-Shot Monitor and computer aided manufacturing CAM software.
+* **Job type:** Part-time (4 hours per day) and presencial or remotely. 5 days per week.
+* **Required credentials and years of experience:** High school diploma or equivalent, level of English prefered, 3 years of experience in the sector, post-secondary certificates related to the industry preferred. 
+* **Salary, benefits and perks:** $15.45 hourly, $32,130, annual variable commission depending on the job performance.
+
+According to the calculation carried out by the company, the numbers of workers needed for management was 3, for engineers 11 and in case of operators 6 workers. Nevertheless, given that the automation risk for operators is around 95-97% and the absenteesim of operators is higher respect to the other job positions, the company has decided to fill 3 job vacancies.   
 ***
 
 ## Task 6
