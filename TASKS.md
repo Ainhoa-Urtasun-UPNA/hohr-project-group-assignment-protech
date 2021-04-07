@@ -158,7 +158,7 @@ Hence, from the total number of businesses of *20.738 in medical equipment and s
 ***
 You plan to start hiring workers next year. During this very first year, you are its only workers, all managers. Yearly staff movements were, on average, as follows: Out of 15 managers, 5 stayed in the same occupation, 5 moved to operators, and 5 left the firm; Out of 20 engineers, 10 stayed in the same occupation, 2 moved to managers, 5 moved to operators, and 3 left the firm; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many managers, engineers, and operators you will have company will have in one year from now.
 
-For computing the number of available workers the formula that we have followed is as follows a=MD^-1b. Indeed, M stands for the movement of workers having in the diagonal workers that remain in the same occupation being 5 managers, 10 operators and 45 eningeers. With respect to the diagonal matrix it stands for the number of workers at the beggining of the previous year. In fact, given that the company is new the historical data used is the industry average. Moreover, nowadays there are 2 managers, 1 operator and 1 engineer.  Finally, after carrying out computations using the python software it has been determined that the number of availabe workers needed are 1 manager, 1 operator and 1 engineer in a year from now. 
+For computing the number of available workers the formula that we have followed is as follows a=MD^-1b. Indeed, M stands for the movement of workers having in the diagonal workers that remain in the same occupation being 5 managers, 10 operators and 45 eningeers. With respect to the diagonal matrix it stands for the number of workers at the beggining of the previous year. In fact, given that the company is new the historical data used is the industry average. Moreover, nowadays there are 2 managers, 1 operator and 1 engineer.  Finally, after carrying out computations using the python software it has been determined that the number of availabe workers are 1 manager, 1 operator and 1 engineer in a year from now. 
 ***
 
 ## Task 4
@@ -173,7 +173,8 @@ Given that the number of available workers is expected to be 1 manager, 1 engine
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
 ### Job posting for Managers:
-* **Job title**: Need for one general manager and two operational managers
+* **Job title**: General and Operational managers 
+* **Job Vacancies** 1 general manager and 2 operational managers 
 * **Name of the firm:** ProTech
 * **Industry:** 339113 -Surgical Appliance and Supplies Manufacturing
 * **Occupation (SOC):** 11-1021.00 - General and Operations Managers
@@ -188,7 +189,8 @@ The required skills needed to perform the alredy mentioned tasks are divided in:
 * **Salary, benefits and perks:** The wage would be around $48 hourly ($100,780 annual). Moreover, extra-hours will have an hourly salary of $50.  
 
 ### Job posting for Engineers:
-* **Job title**: 11 Electronical engineers neded
+* **Job title**: Electronical engineers
+* **Job Vacancies**: 11
 * **Name of the firm:** ProTech
 * **Industry:** 339113 - Surgical Appliance and Supplies Manufacturing
 * **Occupation (SOC):** 17-2072.00 - Electronics Engineers, Except Computer
@@ -203,7 +205,8 @@ The required skills needed to perform the already mentioned tasks are divided in
 * **Salary, benefits and perks:** $50.76 hourly, $105,570 annual, variable commission depending on the job performance. 
 
 ### Job posting for Operators:
-* **Job title**: 3 Operators for 3D-Printer
+* **Job title**: Operators for 3D-Printer
+* **Job Vacancies**: 3
 * **Name of the firm:** ProTech
 * **Industry:** 339113 -Surgical Appliance and Supplies Manufacturing
 * **Occupation (SOC):** 51-4072.00 - Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
@@ -217,7 +220,7 @@ The required skills needed to perform the already mentioned tasks are divided in
 * **Required credentials and years of experience:** High school diploma or equivalent, level of English prefered, 3 years of experience in the sector, post-secondary certificates related to the industry preferred. 
 * **Salary, benefits and perks:** $15.45 hourly, $32,130, annual variable commission depending on the job performance.
 
-According to the calculation carried out by the company, the numbers of workers needed for management was 3, for engineers 11 and in case of operators 6 workers. Nevertheless, given that the automation risk for operators is around 95-97% and the absenteesim of operators is higher respect to the other job positions, the company has decided to fill 3 job vacancies.   
+According to the calculation carried out by the company, the numbers of workers needed for management was 3, for engineers 11 and in case of operators 6 workers. In the case of general and operations managers as the automation risk  is low around 16%, the company has decided to fill all the job vacancies which are 3. With respect to engineers, the automation risk is even lower than the one of managers being around 10%. Therefore, the company also has decided to fill the 11 job openings.   Nevertheless, given that the automation risk for operators is around 95-97% and the absenteesim of operators is higher respect to the other job positions, the company has decided to fill  only 3 job vacancies.   
 ***
 
 ## Task 6
