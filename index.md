@@ -1,4 +1,4 @@
-## PROTECH
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-protech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# **PROTECH**
 ## Header 2
 ### Header 3
+![Image](Captura sii)
 
 - Bulleted
 - List
