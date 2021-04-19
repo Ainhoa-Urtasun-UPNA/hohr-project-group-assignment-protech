@@ -7,7 +7,8 @@
 ![Forecasting](Forecasting.png)
 
 ### JOB POSTING ###
-![Job Posting](1 Logo.PNG)
+![Job Posting](Job Posting.png)
+
 
 
 
