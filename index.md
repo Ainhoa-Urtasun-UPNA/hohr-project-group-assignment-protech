@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-![Logo](src)
+![Logo](png)
 
 You can use the [editor on GitHub](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-protech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
