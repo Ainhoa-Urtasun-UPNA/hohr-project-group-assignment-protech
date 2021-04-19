@@ -4,6 +4,8 @@
 ### PRIMARY AND SUPPORT ACTIVITIES ###
 
 ### FORECASTING ###
+![Forecasting](Forecasting.png)
+
 ### JOB POSTING ###
 ![Job Posting](1 Logo.PNG)
 
