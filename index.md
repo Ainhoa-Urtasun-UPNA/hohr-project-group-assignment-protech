@@ -14,7 +14,7 @@ Syntax highlighted code block
 #**PROTECH**
 ## Header 2
 ### Header 3
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/ 1 Logo.PNG)
 - Bulleted
 - List
 
