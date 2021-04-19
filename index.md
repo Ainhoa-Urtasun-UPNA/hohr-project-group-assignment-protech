@@ -2,10 +2,15 @@
 #### NAICS: 339113 - Surgical Appliance and Supplies Manufacturing ####
 ### PRIMARY AND SUPPORT ACTIVITIES ###
 ![Primary activities](Primary.png)
+
 ![Secondary activities](Secondary.png)
 
 ### FORECASTING ###
 ![Forecasting](Forecasting.png)
 
 ### JOB POSTING ###
-![Job Posting](Managers.png) ![Job Posting](Managers.png) ![Job Posting](Operators.png)
+![Job Posting](Managers.png) 
+
+![Job Posting](Managers.png) 
+
+![Job Posting](Operators.png)
