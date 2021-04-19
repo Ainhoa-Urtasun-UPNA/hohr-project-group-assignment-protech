@@ -14,7 +14,7 @@ Syntax highlighted code block
 #**PROTECH**
 ## Header 2
 ### Header 3
-![1 Logo.](/images/ 1 Logo.PNG)
+![1 Logo](/images/ 1 Logo.PNG)
 - Bulleted
 - List
 
