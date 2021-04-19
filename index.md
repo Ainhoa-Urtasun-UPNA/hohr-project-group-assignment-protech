@@ -1,17 +1,10 @@
 ## PROTECH ##
-![Image](src)
-## NAICS: 339113 - Surgical Appliance and Supplies Manufacturing###
-## PRIMARY AND SUPPORT ACTIVITIES ##
-## FORECASTING ##
-Header 2
-### Header 3
 ![1 Logo](1 Logo.PNG)
+### NAICS: 339113 - Surgical Appliance and Supplies Manufacturing ###
+### PRIMARY AND SUPPORT ACTIVITIES ###
+### FORECASTING ##
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
