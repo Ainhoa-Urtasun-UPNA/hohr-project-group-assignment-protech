@@ -19,6 +19,15 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+A prosthesis is an artificial extension that replaces or provides a part of the body that is missing for various reasons. An orthopedic prosthesis is one that replaces a limb of the body, fulfilling almost the same function as a natural limb, being it a leg, an arm, a foot, a hand, or one or more fingers. In either case, a prosthesis can be used to help with appearance after surgery or other cancer treatments. 
+
+Only in Spain around 90,000 people have suffered an amputation, according to the data from the Asociación de Amputados de España (Andade). The Spanish Health system subsidizes "very basic" prostheses, which do not provide the necessary "quality of life", they declare from Andade.
+
+The market size in the US ranges around $84 billions for the Medical Instrument & Supply Manufacturing Industry, which is a quite significant amount. Indeed, the market size has been increasing at a considerable rate over the last 6 years.
+
+Nowadays ProTech is a small company with just a few workers. Nonetheless, our aim is to expand internationally, committing to help any person who might need us.
+
+
 1. Numbered
 2. List
 
