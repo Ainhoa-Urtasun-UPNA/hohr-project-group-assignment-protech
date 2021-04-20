@@ -1,6 +1,6 @@
 <video src="Protech..mp4" width="320" height="200" controls preload></video>
 
-![1 Logo](1 Logo..PNG)
+![Logo.](Logo..PNG)
 
 ### OUR HISTORY ###
 
@@ -25,7 +25,9 @@ For doing so we use 3D printers, as these machines are cheaper and more people c
 ![Job Posting](Manager.png) 
 
 
-![Job Posting](Engineers.png) 
+![Job Posting](Job posting eng.png) 
 
 
-![Job Posting](Operators.png)
+![Job Posting](Job posting op.png)
+
+# _Love and enjoy your life_ #
