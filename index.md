@@ -19,7 +19,7 @@ For doing so we use 3D printers, as these machines are cheaper and more people c
 
 
 ## FORECASTING 
-![Forecasting](Forecasting.png)
+![Forecasting](Forecastingg.png)
 
 
 ## JOB POSTING 
