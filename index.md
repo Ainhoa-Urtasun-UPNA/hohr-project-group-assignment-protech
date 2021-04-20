@@ -2,7 +2,7 @@
 
 ![1 Logo](1 Logo.PNG)
 
-## OUR HISTORY ##
+### OUR HISTORY ###
 
 ProTech is an Spanish company set in Pamplona. The company was created with the aim of giving a better quality lofe for people who have suffered physical health problems. We produce orthopedic devices, prosthetic appliances... We want people to keep dreeming, achieve their objectives and, above all, to enjoy their life.
 
