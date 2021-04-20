@@ -8,7 +8,7 @@ ProTech is an Spanish company set in Pamplona. The company was created with the 
 
 For doing so we use 3D printers, as these machines are cheaper and more people can afford them. PreTech helps their clients to recover the happiness they experienced before.
 
-#### NAICS: 339113 - Surgical Appliance and Supplies Manufacturing ####
+## NAICS: 339113 - Surgical Appliance and Supplies Manufacturing ##
 
 
 ### PRIMARY AND SUPPORT ACTIVITIES ###
@@ -22,7 +22,8 @@ For doing so we use 3D printers, as these machines are cheaper and more people c
 ![Forecasting](Forecasting.png)
 
 ### JOB POSTING ###
-![Job Posting](Job Posting Man.png) 
+![Job Posting](Job PostingS.png) 
+![Job Posting](Manager.png) 
 
 
 ![Job Posting](Engineers.png) 
