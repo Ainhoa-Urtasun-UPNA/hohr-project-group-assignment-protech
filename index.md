@@ -30,4 +30,4 @@ For doing so we use 3D printers, as these machines are cheaper and more people c
 
 ![Job Posting](Job posting op.png)
 
-*_Love and enjoy your life_* 
+**_Love and enjoy your life_ 
