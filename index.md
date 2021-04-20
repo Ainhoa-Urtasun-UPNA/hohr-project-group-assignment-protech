@@ -1,6 +1,6 @@
 ![1 Logo](1 Logo.PNG)
 
-<video src="Protech..mp4" width="150" height="150" controls preload></video>
+<video src="Protech..mp4" width="320" height="200" controls preload></video>
 
 #### NAICS: 339113 - Surgical Appliance and Supplies Manufacturing ####
 
