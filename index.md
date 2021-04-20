@@ -14,7 +14,7 @@
 ![Forecasting](Forecasting.png)
 
 ### JOB POSTING ###
-![Job Posting](Managers.png) 
+![Job Posting](Job Posting Man.png) 
 
 
 ![Job Posting](Engineers.png) 
