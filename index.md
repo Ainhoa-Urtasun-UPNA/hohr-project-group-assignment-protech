@@ -7,7 +7,8 @@
 ### PRIMARY AND SUPPORT ACTIVITIES ###
 ![Primary activities](Primary.png)
 
-![Secondary activities](Secondary.png)
+
+![Secondary activities](Secondary2.png)
 
 ### FORECASTING ###
 ![Forecasting](Forecasting.png)
