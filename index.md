@@ -10,6 +10,8 @@ For doing so we use 3D printers, as these machines are cheaper and more people c
 
 ### NAICS: 339113 - Surgical Appliance and Supplies Manufacturing 
 
+**U.S. Market size:** $84 billions for Medical Instrument & Supply Manufacturing Industry
+
 
 ## PRIMARY AND SUPPORT ACTIVITIES
 ![Primary activities](Primary.png)
